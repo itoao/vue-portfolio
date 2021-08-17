@@ -16,8 +16,6 @@
                 </li>
             </ul>
         </div>
-    <vue-particles  class="particles"></vue-particles>
-      
     </div>
 </template>
 <script>

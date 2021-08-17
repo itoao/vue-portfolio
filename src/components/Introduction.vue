@@ -17,6 +17,5 @@
                     <p class="text">2001-03-24</p>
               </div>
         </div>
-        <vue-particles  class="particles"></vue-particles>
   </div>
 </template>
