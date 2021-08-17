@@ -15,7 +15,7 @@
           </li>
           <li class="nav-item">
             <router-link class="nav-link px-4 py-3" to="/Skill">
-              Skill
+              Skills
             </router-link>
           </li>
           <li class="nav-item">

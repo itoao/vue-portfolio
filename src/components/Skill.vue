@@ -1,7 +1,7 @@
 <template>
  <div>
      <div class="container mt-5 px-5">
-        <h1 class="mb-4">WORKS</h1>
+        <h1 class="mb-4">SKILLS</h1>
             <ul class="works">
                 <li class="card">
                     <img class="card-img" src="@/assets/skills/js.png" alt="">
