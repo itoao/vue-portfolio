@@ -3,8 +3,8 @@ import Router from "vue-router";
 
 import Home from "@/components/Home";
 import Introduction from "@/components/Introduction";
-import Language from "@/components/Language";
-import Portfolio from "@/components/Portfolio";
+import Skill from "@/components/Skill";
+import Works from "@/components/Works";
 import Contact from "@/components/Contact";
 
 // import Bootstrap
@@ -28,12 +28,12 @@ export default new Router({
       component: Introduction,
     },
     {
-      path: "/Language",
-      component: Language,
+      path: "/Skill",
+      component: Skill,
     },
     {
-      path: "/Portfolio",
-      component: Portfolio,
+      path: "/Works",
+      component: Works,
     },
     {
       name: "Contact",

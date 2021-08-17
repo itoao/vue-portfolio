@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="container mt-5 px-5">
-            <h1 class="mb-4">Introduction</h1>
+            <h1 class="mb-4">INTRODUCTION</h1>
                 <div class="me">
                     <h2><font-awesome-icon icon="pen" class="icon"/> Name</h2>
                     <p class="text">Ao Ito</p>
@@ -17,5 +17,6 @@
                     <p class="text">2001-03-24</p>
               </div>
         </div>
+        <vue-particles  class="particles"></vue-particles>
   </div>
 </template>

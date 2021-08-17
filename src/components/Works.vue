@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="container mt-5 px-5">
-            <h1 class="mb-4">PORTFOLIO</h1>
+            <h1 class="mb-4">WORKS</h1>
             <ul class="works">
                 <li class="card">
                     <img class="card-img" src="@/assets/works/todo-timer.png" alt="">
@@ -16,9 +16,15 @@
                 </li>
             </ul>
         </div>
+    <vue-particles  class="particles"></vue-particles>
+      
     </div>
 </template>
-<style scoped>
+<script>
+
+</script>
+
+<style>
 .works{
   list-style-type: none;
   padding-left: 0;

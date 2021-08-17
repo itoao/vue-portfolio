@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar-expand-lg navbar-dark bg-dark">
+  <nav class="navbar-expand-lg navbar-light bg-light">
     <div class="container">
       <!-- pc -->
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -14,13 +14,13 @@
             </router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link px-4 py-3" to="/Language">
-              Used Languages
+            <router-link class="nav-link px-4 py-3" to="/Skill">
+              Skill
             </router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link px-4 py-3" to="/Portfolio">
-              Portfolio
+            <router-link class="nav-link px-4 py-3" to="/Works">
+              Works
             </router-link>
           </li>
           <li class="nav-item">
@@ -41,8 +41,8 @@
           </router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/Language">
-            Used Languages
+          <router-link class="ancar text-white" to="/Skill">
+            Skill
           </router-link>
         </li>
         <li>
@@ -61,6 +61,7 @@
 </template>
 
 <style>
+
 nav {
   height: 56px;
 }
@@ -96,4 +97,5 @@ nav {
     padding: 4px 4px;
   }
 }
+
 </style>

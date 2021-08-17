@@ -5,15 +5,21 @@
             :preTypeDelay="1000" :typeDelay="120" :preEraseDelay="5000" :eraseDelay="2000">
             </vue-typer>
         </div>
-        <vue-particles color="#dedede" class="particles"></vue-particles>
+        <vue-particles class="particles"></vue-particles>
     </div>
  
 </template>
 
 <script>
 </script>
-
 <style>
+
+#main{
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+}
 .main-image-title {
   font-size: 70px;
   padding-top: 250px;
