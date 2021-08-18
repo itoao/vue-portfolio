@@ -33,10 +33,10 @@
 }
 
 .mail{
-    color: #DD5144;
+    size: 60px;
 }
 .mail:hover{
-    background-color: #DD5144;
+    background-color: #7da8b3;
 }
 .github{
     color: #171515;
