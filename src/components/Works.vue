@@ -14,6 +14,16 @@
                     <a href="https://github.com/itoao/todo_app" class="card-link github-link">Github</a>
                     </div>
                 </li>
+                <li class="card">
+                    <img class="card-img" src="@/assets/works/vue-portfolio.png" alt="">
+                    <div class="card-content">
+                    <h1 class="card-title jp">当サイト</h1>
+                    <p class="card-text">Vue RouterでSPA化しました</p>
+                    <p class="card-lang">Vue, Amplify</p>
+                    <br>
+                    <a href="https://github.com/itoao/vue-portfolio-spa" class="card-link github-link">Github</a>
+                    </div>
+                </li>
             </ul>
         </div>
     </div>
