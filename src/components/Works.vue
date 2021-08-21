@@ -4,7 +4,7 @@
             <h1 class="mb-4">WORKS</h1>
             <ul class="works">
                 <li class="card">
-                    <img class="card-img" src="@/assets/works/todo-timer.png" alt="">
+                    <img class="card-img" src="@/assets/works/todo-timer.png" alt="画像">
                     <div class="card-content">
                     <h1 class="card-title jp">TODOアプリ</h1>
                     <p class="card-text">タスク管理とタイマーがセットになっているアプリ</p>
@@ -15,13 +15,13 @@
                     </div>
                 </li>
                 <li class="card">
-                    <img class="card-img" src="@/assets/works/vue-portfolio.png" alt="">
+                    <img class="card-img" src="@/assets/works/vue-portfolio.png" alt="画像">
                     <div class="card-content">
                     <h1 class="card-title jp">当サイト</h1>
-                    <p class="card-text">Vue RouterでSPA化しました</p>
-                    <p class="card-lang">Vue, Amplify</p>
+                    <p class="card-text">VueでSPA化しました</p>
+                    <p class="card-lang">Vue, AWS Amplify</p>
                     <br>
-                    <a href="https://github.com/itoao/vue-portfolio-spa" class="card-link github-link">Github</a>
+                    <a href="https://github.com/itoao/vue-portfolio" class="card-link github-link">Github</a>
                     </div>
                 </li>
             </ul>
